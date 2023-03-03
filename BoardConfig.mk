@@ -100,8 +100,6 @@ TW_CRYPTO_FS_OPTIONS := "nosuid,nodev,noatime,discard,noauto_da_alloc,barrier=0,
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
-TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/recovery/root/etc/recovery.fstab
-
 # Storage
 TW_HAS_MTP := true
 TW_MTP_DEVICE := /dev/mtp_usb
