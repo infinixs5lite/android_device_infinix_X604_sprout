@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_X604.mk
+    $(LOCAL_DIR)/omni_X604_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_X604-user \
-    omni_X604-userdebug \
-    omni_X604-eng
+    omni_X604_sprout-user \
+    omni_X604_sprout-userdebug \
+    omni_X604_sprout-eng
