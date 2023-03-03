@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=X604
+DEVICE=X604_sprout
 VENDOR=infinix
 
 # Load extract_utils and do some sanity checks
